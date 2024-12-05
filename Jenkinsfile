@@ -1,4 +1,4 @@
-def IMAGE_VERSION = '1.0.2'
+def IMAGE_VERSION = '1.0.3'
 pipeline {
 	agent any
 	stages {
